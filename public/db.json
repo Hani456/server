@@ -1,0 +1,157 @@
+{"clothes": [
+        {
+            "cloth_id": 1,
+            "cloth_name": "Long Sleeve Pullover Sweatshirt Lightweight Fleece Top",
+            "cloth_brand": "Willit",
+            "cloth_price": "23.99",
+            "cloth_color": [
+                "crimson",
+                "black",
+                "grey",
+                "powder-blue"
+            ],
+            "cloth_gender": "Men",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "cloth_ratings": 4.6,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81irvNQ-cqL._AC_SX466_.jpg",
+            "cloth_detais": {
+                "fabric_type": "Fleece",
+                "care_instructions": "Machine Wash"
+            }
+        },
+        {
+            "cloth_id": 2,
+            "cloth_name": "Women's Summer Short Sleeve Casual Dresses V-Neck Floral Party Dress with Pockets",
+            "cloth_brand": "Weaczzy",
+            "cloth_price": 34,
+            "cloth_color": [
+                "darkgreen",
+                "black",
+                "navy",
+                "peachpuff",
+                "purple"
+            ],
+            "cloth_gender": "Women",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large",
+                "XX-Large"
+            ],
+            "cloth_ratings": 4.3,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61D7qAZ8bRL._AC_SY550_.jpg",
+            "cloth_detais": {
+                "fabric_type": "95% Polyester, 5% Spandex",
+                "care_instructions": "Tumble dry"
+            }
+        },
+        {
+            "cloth_id": 3,
+            "cloth_name": "Womens Pleated Crew Neck Pockets Belted Work Business Office Casual A-Line Midi Mid-Calf Dress",
+            "cloth_brand": "Vfshow",
+            "cloth_price": 15.04,
+            "cloth_color": [
+                "black",
+                "cornflowerblue"
+            ],
+            "cloth_gender": "Women",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "cloth_ratings":4.8,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/81FNJNRxpmL._AC_SY550_.jpg",
+            "cloth_detais": {
+                "fabric_type": "95% Polyester, 5% Elastane",
+                "care_instructions": "Machine wash, do not dry clean"
+            }
+        },
+        {
+            "cloth_id": 4,
+            "cloth_name": "Mens Ribbed Slim Fit Knitted Pullover Turtleneck Sweater",
+            "cloth_brand": "Coofandy",
+            "cloth_price": 27.56,
+            "cloth_color": [
+                "black",
+                "slategray",
+                "saddlebrown",
+                "rosybrown"
+            ],
+            "cloth_gender": "Men",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large",
+                "XX-Large",
+                "3X-Large"
+            ],
+            "cloth_ratings":4.8,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/814C6B04tQL._AC_SY550_.jpg",
+            "cloth_detais": {
+                "fabric_type": "Warm & Soft",
+                "care_instructions": "Machine wash"
+            }
+        },
+        {
+            "cloth_id": 5,
+            "cloth_name": "Van Heusen Men's Tall FIT Dress Shirts Poplin",
+            "cloth_brand": "Van Heusen",
+            "cloth_price": 26.95,
+            "cloth_color": [
+                "white",
+                "aliceblue",
+                "lavenderblush",
+                "black"
+            ],
+            "cloth_gender": "Men",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large"
+            ],
+            "cloth_ratings": 4.4,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71fNBAn0aBL._AC_SX569_.jpg",
+            "cloth_detais": {
+                "fabric_type": "65% Polyester, 35% Cotton",
+                "care_instructions": "Machine wash"
+            }
+        },
+        {
+            "cloth_id":6,
+            "cloth_name": "Flutter Short Sleeve Crew Neck Smocked Elastic Waist Tiered Midi Dress",
+            "cloth_brand": "Zesica",
+            "cloth_price": 16,
+            "cloth_color": [
+                "blue",
+                "lightyellow",
+                "lavenderblush",
+                "honeydew",
+                "pink"
+            ],
+            "cloth_gender": "Women",
+            "cloth_size": [
+                "Small",
+                "Medium",
+                "Large",
+                "X-Large",
+                "XX-Large"
+            ],
+            "cloth_ratings": 4.2,
+            "cloth_img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61gb7+23wYL._AC_SY550_.jpg",
+            "cloth_detais": {
+                "fabric_type": "One hundred percent Rayon,Soft and Lightweight",
+                "care_instructions": "Machine wash"
+            }
+        }
+    ]
+}
